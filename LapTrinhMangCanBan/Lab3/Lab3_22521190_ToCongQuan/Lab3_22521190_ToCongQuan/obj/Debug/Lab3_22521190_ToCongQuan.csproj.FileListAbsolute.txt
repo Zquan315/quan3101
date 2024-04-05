@@ -1,0 +1,13 @@
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\bin\Debug\Lab3_22521190_ToCongQuan.exe.config
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\bin\Debug\Lab3_22521190_ToCongQuan.exe
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\bin\Debug\Lab3_22521190_ToCongQuan.pdb
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.csproj.AssemblyReference.cache
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.Properties.Resources.resources
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.csproj.GenerateResource.cache
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.csproj.CoreCompileInputs.cache
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.exe
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.pdb
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.flab.resources
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.flab1.resources
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.UDP_Client_bai1.resources
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.UDP_Server_bai1.resources
