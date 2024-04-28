@@ -42,7 +42,7 @@
             this.bai1.Name = "bai1";
             this.bai1.Size = new System.Drawing.Size(186, 87);
             this.bai1.TabIndex = 0;
-            this.bai1.Text = "Bài 1";
+            this.bai1.Text = "Bài 1: Chat UDP";
             this.bai1.UseVisualStyleBackColor = false;
             this.bai1.Click += new System.EventHandler(this.bai1_Click);
             // 
@@ -54,8 +54,9 @@
             this.bai2.Name = "bai2";
             this.bai2.Size = new System.Drawing.Size(186, 87);
             this.bai2.TabIndex = 1;
-            this.bai2.Text = "Bài 2";
+            this.bai2.Text = "Bài 2: Telnet CMD";
             this.bai2.UseVisualStyleBackColor = false;
+            this.bai2.Click += new System.EventHandler(this.bai2_Click);
             // 
             // bai3
             // 
@@ -65,8 +66,9 @@
             this.bai3.Name = "bai3";
             this.bai3.Size = new System.Drawing.Size(186, 87);
             this.bai3.TabIndex = 2;
-            this.bai3.Text = "Bài 3";
+            this.bai3.Text = "Bài 3: Chat TCP";
             this.bai3.UseVisualStyleBackColor = false;
+            this.bai3.Click += new System.EventHandler(this.bai3_Click);
             // 
             // bai4
             // 
@@ -76,8 +78,9 @@
             this.bai4.Name = "bai4";
             this.bai4.Size = new System.Drawing.Size(186, 87);
             this.bai4.TabIndex = 3;
-            this.bai4.Text = "Bài 4";
+            this.bai4.Text = "Bài 4: Multi chat";
             this.bai4.UseVisualStyleBackColor = false;
+            this.bai4.Click += new System.EventHandler(this.bai4_Click);
             // 
             // flab
             // 

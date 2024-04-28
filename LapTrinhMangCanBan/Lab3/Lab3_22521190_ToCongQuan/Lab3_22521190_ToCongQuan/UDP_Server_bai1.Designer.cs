@@ -62,6 +62,7 @@
             this.btListen.TabIndex = 3;
             this.btListen.Text = "Listen";
             this.btListen.UseVisualStyleBackColor = false;
+            this.btListen.Click += new System.EventHandler(this.btListen_Click);
             // 
             // lvReceive
             // 

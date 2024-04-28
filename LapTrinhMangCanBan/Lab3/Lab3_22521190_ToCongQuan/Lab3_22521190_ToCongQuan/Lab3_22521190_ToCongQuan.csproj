@@ -46,6 +46,48 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bai4_client1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai4_client1.Designer.cs">
+      <DependentUpon>Bai4_client1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai4_client2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai4_client2.Designer.cs">
+      <DependentUpon>Bai4_client2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai4_client3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai4_client3.Designer.cs">
+      <DependentUpon>Bai4_client3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai4_server.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai4_server.Designer.cs">
+      <DependentUpon>Bai4_server.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab3-bai2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab3-bai2.Designer.cs">
+      <DependentUpon>Lab3-bai2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab3-bai3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab3-bai3.Designer.cs">
+      <DependentUpon>Lab3-bai3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab3-bai4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab3-bai4.Designer.cs">
+      <DependentUpon>Lab3-bai4.cs</DependentUpon>
+    </Compile>
     <Compile Include="Lab3.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +102,18 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TCP_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TCP_Client.Designer.cs">
+      <DependentUpon>TCP_Client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TCP_Server.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TCP_Server.Designer.cs">
+      <DependentUpon>TCP_Server.cs</DependentUpon>
+    </Compile>
     <Compile Include="UDP_Client_bai1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,6 +126,27 @@
     <Compile Include="UDP_Server_bai1.Designer.cs">
       <DependentUpon>UDP_Server_bai1.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Bai4_client1.resx">
+      <DependentUpon>Bai4_client1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai4_client2.resx">
+      <DependentUpon>Bai4_client2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai4_client3.resx">
+      <DependentUpon>Bai4_client3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai4_server.resx">
+      <DependentUpon>Bai4_server.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab3-bai2.resx">
+      <DependentUpon>Lab3-bai2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab3-bai3.resx">
+      <DependentUpon>Lab3-bai3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab3-bai4.resx">
+      <DependentUpon>Lab3-bai4.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Lab3.resx">
       <DependentUpon>Lab3.cs</DependentUpon>
     </EmbeddedResource>
@@ -87,6 +162,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="TCP_Client.resx">
+      <DependentUpon>TCP_Client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TCP_Server.resx">
+      <DependentUpon>TCP_Server.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UDP_Client_bai1.resx">
       <DependentUpon>UDP_Client_bai1.cs</DependentUpon>
     </EmbeddedResource>

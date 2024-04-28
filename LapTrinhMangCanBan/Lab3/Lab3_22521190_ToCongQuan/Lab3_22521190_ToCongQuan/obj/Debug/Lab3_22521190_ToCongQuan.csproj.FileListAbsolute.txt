@@ -11,3 +11,12 @@ Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_2
 Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.flab1.resources
 Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.UDP_Client_bai1.resources
 Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.UDP_Server_bai1.resources
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.flab3.resources
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.TCP_Client.resources
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.TCP_Server.resources
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.flab2.resources
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.Client1.resources
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.Client2.resources
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.Client3.resources
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.Bai4_server.resources
+Q:\TO_CONG_QUAN\University_Documents\Nam 2\HK2\LapTrinhMang\ThucHanh\Lab3\Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan\obj\Debug\Lab3_22521190_ToCongQuan.flab4.resources

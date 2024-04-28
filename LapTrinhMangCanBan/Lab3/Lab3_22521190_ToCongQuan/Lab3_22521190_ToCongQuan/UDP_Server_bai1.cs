@@ -38,7 +38,7 @@ namespace Lab3_22521190_ToCongQuan
                 IPEndPoint remoteIPEndPoint = new IPEndPoint(IPAddress.Any, int.Parse(tbPort.Text));
                 Byte[] reveiveBytes = udpClient.Receive(ref remoteIPEndPoint);
                 string returnData = Encoding.UTF8.GetString(reveiveBytes);
-                string mess = remoteIPEndPoint.ToString() + ": " + returnData.ToString();
+                string mess = remoteIPEndPoint.ToString() + ": " + returnData.ToString() ;
 
                 infoMessage(mess);
             }
@@ -58,6 +58,11 @@ namespace Lab3_22521190_ToCongQuan
                 item.Text = message;
                 lvReceive.Items.Add(item);
             }
+        }
+
+        private void btListen_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

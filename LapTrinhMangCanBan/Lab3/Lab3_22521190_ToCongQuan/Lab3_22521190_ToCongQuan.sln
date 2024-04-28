@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3_22521190_ToCongQuan", "Lab3_22521190_ToCongQuan\Lab3_22521190_ToCongQuan.csproj", "{0B4E1942-6EE1-4F89-8833-47BE0455C666}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Lab03_LapTrinhMang", "Lab03_LapTrinhMang\Lab03_LapTrinhMang.vdproj", "{3134F868-44B6-41A2-BB80-0E5E3864F72B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{0B4E1942-6EE1-4F89-8833-47BE0455C666}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B4E1942-6EE1-4F89-8833-47BE0455C666}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B4E1942-6EE1-4F89-8833-47BE0455C666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3134F868-44B6-41A2-BB80-0E5E3864F72B}.Debug|Any CPU.ActiveCfg = Debug
+		{3134F868-44B6-41A2-BB80-0E5E3864F72B}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

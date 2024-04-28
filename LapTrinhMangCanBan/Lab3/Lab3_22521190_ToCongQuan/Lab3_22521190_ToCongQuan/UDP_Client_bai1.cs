@@ -31,12 +31,12 @@ namespace Lab3_22521190_ToCongQuan
 
         private void btSend_Click(object sender, EventArgs e)
         {
-            if(tbIP.Text != "127.0.0.1" )
+            if (tbIP.Text != "127.0.0.1")
             {
                 MessageBox.Show("Vui lòng nhập IP: 127.0.0.1!", "Chú ý", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
-            if(tbPort.Text != "8080")
+            if (tbPort.Text != "8080")
             {
                 MessageBox.Show("Vui lòng nhập Port: 8080!", "Chú ý", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
